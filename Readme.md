@@ -30,3 +30,5 @@ A Hands-On Guide to Deploying ML Models with Ease
 
 ## Tutorial
 Check out the [gradio tutorial notebook](/gradio_tutorial.ipynb) for a walkthrough in using Gradio.
+
+For a video walktrough, check out our [Youtube video](https://youtu.be/JT-EgwOOYLA).
